@@ -1,0 +1,11 @@
+D:\dev\raspberrytest\pi-sharp\bin\Debug\netcoreapp2.2\pi-sharp.deps.json
+D:\dev\raspberrytest\pi-sharp\bin\Debug\netcoreapp2.2\pi-sharp.runtimeconfig.json
+D:\dev\raspberrytest\pi-sharp\bin\Debug\netcoreapp2.2\pi-sharp.runtimeconfig.dev.json
+D:\dev\raspberrytest\pi-sharp\bin\Debug\netcoreapp2.2\pi-sharp.dll
+D:\dev\raspberrytest\pi-sharp\bin\Debug\netcoreapp2.2\pi-sharp.pdb
+D:\dev\raspberrytest\pi-sharp\obj\Debug\netcoreapp2.2\pi-sharp.csprojAssemblyReference.cache
+D:\dev\raspberrytest\pi-sharp\obj\Debug\netcoreapp2.2\pi-sharp.csproj.CoreCompileInputs.cache
+D:\dev\raspberrytest\pi-sharp\obj\Debug\netcoreapp2.2\pi-sharp.AssemblyInfoInputs.cache
+D:\dev\raspberrytest\pi-sharp\obj\Debug\netcoreapp2.2\pi-sharp.AssemblyInfo.cs
+D:\dev\raspberrytest\pi-sharp\obj\Debug\netcoreapp2.2\pi-sharp.dll
+D:\dev\raspberrytest\pi-sharp\obj\Debug\netcoreapp2.2\pi-sharp.pdb
